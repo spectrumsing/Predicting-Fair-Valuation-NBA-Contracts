@@ -1689,3 +1689,6 @@ Kevin Séraphin,,serapke01
 Greivis Vásquez,,vasqugr01
 Justin Hamilton,,hamilju01
 Sergio Rodríguez,,rodrise01
+Jericho Sims,,simsje01
+Eric Bledsoe,,bledser01
+Gabriel Lundberg,,lundbga01
