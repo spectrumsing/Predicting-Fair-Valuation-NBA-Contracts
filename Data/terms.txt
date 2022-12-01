@@ -1,0 +1,218 @@
+player,terms,player_id
+Mitchell Robinson,Signed 4-yr/$60M contract,robinmi01
+James Harden,Signed 2-yr/$68.6M contract,hardeja01
+Jalen Brunson,Signed 4-yr/$104M contract,brunsja01
+Deandre Ayton,Signed 4-yr/$133M contract after Phoenix matched Indiana's offer sheet,aytonde01
+Montrezl Harrell,Signed 2-yr minimum contract,harremo01
+Miles Bridges,,bridgmi02
+Ivica Zubac,Agreed to contract extension,zubaciv01
+Kevon Looney,Signed 3-yr/$25.5M contract,looneke01
+Chris Boucher,Signed 3-yr/$35M contract,bouchch01
+Zach LaVine,Signed 5-yr/$215M contract,lavinza01
+Hassan Whiteside,,whiteha01
+Isaiah Hartenstein,Signed 2-yr/$16M contract,harteis01
+Bobby Portis,Signed 4-yr/$48.6M contract,portibo01
+Gary Payton II,Signed 3-yr/$26M contract,paytoga02
+Andre Drummond,Signed to 2-yr/$6.6M contract,drumman01
+Tyus Jones,Signed 2-yr/$29M contract,jonesty01
+P.J. Tucker,Signed 3-yr/$33M contract,tuckepj01
+JaVale McGee,Reportedly agreed to 3-year/$20.1MM deal,mcgeeja01
+Otto Porter Jr.,Signed 2-yr/$12.3M contract,porteot01
+Bruce Brown,Signed 2-yr/$13M contract,brownbr01
+Mo Bamba,Signed 2-yr/$20.6M contract,bambamo01
+Pat Connaughton,,connapa01
+Caleb Martin,Signed 3-yr/$20.5M contract,martica02
+Jeff Green,,greenje02
+Cody Martin,Signed 4-yr/$32M contract,martico01
+Amir Coffey,Signed 3-yr/$11M contract,coffeam01
+Nicolas Batum,Signed 2-yr/$22.5M contract,batumni01
+Carmelo Anthony,,anthoca01
+Danilo Gallinari,Signed 2-yr/$13M contract,gallida01
+Malik Monk,Signed 2-yr/$19M contract,monkma01
+Jusuf Nurkić,Signed 4-yr/$70M contract,nurkiju01
+Delon Wright,Signed 2-yr/$16M contract,wrighde01
+Kyle Anderson,Signed 2-yr/$18M contract,anderky01
+Nic Claxton,Signed 2-yr/$17.3M contract,claxtni01
+Dewayne Dedmon,Signed 2-yr/$9M contract,dedmode01
+Dwight Howard,,howardw01
+Trey Lyles,Sacramento exercised team option,lylestr01
+Drew Eubanks,Signed 1-yr minimum contract,eubandr01
+Kyrie Irving,Exercised player option,irvinky01
+Damian Jones,Signed 2-yr minimum contract,jonesda03
+Robert Covington,Agreed to a contract extension,covinro01
+Naz Reid,Minnesota exercised a team option,reidna01
+LaMarcus Aldridge,,aldrila01
+Nemanja Bjelica,,bjeline01
+Jae'Sean Tate,Signed 3-yr/$20.6M contract,tateja01
+Isaiah Roby,Oklahoma City exercised a team option then San Antonio claimed on waivers,robyis01
+Dennis Schröder,Signed 1-yr minimum contract,schrode01
+Patty Mills,Signed 2-yr/$14.5M contract,millspa02
+Jaylen Nowell,Minnesota exercised team option,nowelja01
+Jalen Smith,Signed 3-yr/$15M contract,smithja04
+Taj Gibson,Signed 1-yr minimum contract,gibsota01
+JaMychal Green,Signed 1-yr minimum contract,greenja01
+Damion Lee,Signed 1-yr minimum contract,leeda03
+Cory Joseph,,josepco01
+Dean Wade,Cleveland exercised fourth-year contract option,wadede01
+DeAndre' Bembry,,bembrde01
+Oshae Brissett,Indiana exercised team option,brissos01
+Gary Harris,Signed 2-yr/$26M extension,harriga01
+Joe Ingles,Signed 1-yr/$6.5M contract,inglejo01
+Derrick Jones Jr.,Signed 2-yr/$6.6M contract,jonesde02
+Taurean Prince,Signed veteran extension with Minnesota,princta02
+Thaddeus Young,Signed 2-yr/$16M contract,youngth01
+Hamidou Diallo,Detroit exercised team option,diallha01
+Blake Griffin,Signed 1-yr minimum contract,griffbl01
+Mike Muscala,Signed 2-yr/$7M contract,muscami01
+Marvin Bagley III,Signed 3-yr/$37.5M contract,baglema01
+Facundo Campazzo,Signed 1-yr minimum contract,campafa01
+Serge Ibaka,Signed 1-yr minimum contract,ibakase01
+Eric Paschall,Signed two-way contract,pascher01
+Juan Toscano-Anderson,Signed 1-yr minimum contract,toscaju01
+DeAndre Jordan,Signed 1-yr minimum contract,jordade01
+Anfernee Simons,Signed 4-yr/$100M contract,simonan01
+Bismack Biyombo,Signed 1-yr minimum contract,biyombi01
+Stanley Johnson,Lakers exercised a team option,johnsst04
+Jalen McDaniels,Charlotte exercised team option,mcdanja01
+Shake Milton,Team option exercised,miltosh01
+Russell Westbrook,Exercised player option,westbru01
+DeMarcus Cousins,,couside01
+Andre Iguodala,Signed 1-yr minimum contract,iguodan01
+Davon Reed,Signed 2-yr minimum contract,reedda01
+Tristan Thompson,,thomptr01
+Aaron Holiday,Signed 1-yr minimum contract,holidaa01
+Raul Neto,Signed 1-yr minimum contract,netora01
+Bradley Beal,Signed 5-yr/$251M contract,bealbr01
+Troy Brown Jr.,Signed 1-yr minimum contract,browntr01
+Luguentz Dort,Signed 5-yr/$82.5M contract,dortlu01
+Derrick Favors,,favorde01
+Bryn Forbes,Signed 1-yr minimum contract,forbebr01
+Enes Freedom,,kanteen01
+Anthony Gill,Signed 2-yr minimum contract,gillan01
+Tony Bradley,Exercised player option,bradlto01
+Trent Forrest,Signed two-way contract,forretr01
+Ricky Rubio,Signed 3-yr/$18M contract,rubiori01
+Avery Bradley,,bradlav01
+Jevon Carter,Signed 2-yr/$4.3M contract,carteje01
+Gorgui Dieng,Signed 1-yr minimum contract,dienggo01
+Jeremy Lamb,,lambje01
+Wesley Matthews,Signed 1-yr minimum contract,matthwe02
+Rodney McGruder,Signed 1-yr minimum contract,mcgruro01
+Austin Rivers,Signed 1-yr minimum contract,riverau01
+Lonnie Walker IV,Signed 1-yr/$6.5M contract,walkelo01
+Thomas Bryant,Signed 1-yr minimum contract,bryanth01
+Cody Zeller,Signed non-guaranteed contract,zelleco01
+Wayne Ellington,,ellinwa01
+Danuel House Jr.,Signed 2-yr/$8.4M contract,houseda01
+Nathan Knight,Signed 2-yr minimum contract,knighna01
+Tomáš Satoranský,,satorto01
+Thanasis Antetokounmpo,,antetth01
+Juancho Hernangómez,Signed 1-yr minimum contract,hernaju01
+Frank Kaminsky,Signed 1-yr minimum contract,kaminfr01
+Timothé Luwawu-Cabarrot,Signed 1-yr minimum contract,luwawti01
+D.J. Augustin,,augusdj01
+Justin Champagnie,Signed 2-yr minimum contract,champju01
+Luka Garza,Signed Exhibit 10 contract,garzalu01
+Robin Lopez,Signed 1-yr minimum contract,lopezro01
+Ben McLemore,,mclembe01
+Svi Mykhailiuk,Signed minimum contract,mykhasv01
+Lance Stephenson,,stephla01
+Gary Clark,,clarkga01
+Donte DiVincenzo,Signed 2-yr/$9M contract,divindo01
+Wenyen Gabriel,Lakers exercised a team option,gabriwe01
+Brandon Goodwin,,goodwbr01
+Rodney Hood,,hoodro01
+Frank Jackson,Signed exhibit 10 contract,jacksfr01
+Greg Monroe,,monrogr01
+Josh Okogie,Signed 1-yr minimum contract,okogijo01
+Rajon Rondo,,rondora01
+Yuta Watanabe,Signed non-guaranteed contract,watanyu01
+Kessler Edwards,Signed 2-yr minimum contract,edwarke02
+Sam Hauser,Signed 3-yr/$5.7M contract,hausesa01
+Malcolm Hill,Signed two-way contract,hillma01
+Jordan Nwora,Signed 2-yr $6.2M contract,nworajo01
+Matt Thomas,,thomama02
+Ish Wainright,Signed two-way contract,wainris01
+Lou Williams,,willilo02
+Ignas Brazdeikis,,brazdig01
+Devontae Cacok,Signed exhibit 10 contract,cacokde01
+Tyler Cook,Signed Exhibit 10 contract,cookty01
+Ed Davis,,davised01
+Paul Millsap,,millspa01
+KZ Okpala,Signed 2-yr contract,okpalkz01
+Vlatko Čančar,Signed 3-yr/$6.8M contract,cancavl01
+Goran Dragić,Signed 1-yr minimum contract,dragigo01
+CJ Elleby,Signed Exhibit 10 contract,ellebcj01
+Bruno Fernando,Signed exhibit 10 contract,fernabr01
+Jared Harper,,harpeja01
+Luke Kornet,Signed 2-yr minimum contract,kornelu01
+Victor Oladipo,Signed 2-yr/$18M contract,oladivi01
+Theo Pinson,Signed 1-yr minimum contract,pinsoth01
+Dennis Smith Jr.,Signed exhibit 10 contract,smithde03
+Tony Snell,,snellto01
+PJ Dozier,Signed exhibit 10 contract,doziepj01
+David Duke Jr.,Signed two-way contract,dukeda01
+Markus Howard,,howarma02
+Skylar Mays,Signed exhibit 10 contract,mayssk01
+Xavier Moon,Signed Exhibit 10 contract,moonxa01
+Markieff Morris,Signed non-guaranteed contract,morrima02
+Admiral Schofield,Signed two-way contract,schofad01
+Trevor Ariza,,arizatr01
+Mason Jones,,jonesma05
+Kevin Knox,Signed 2-yr/$6M contract,knoxke01
+Semi Ojeleye,,ojelese01
+Isaiah Thomas,,thomais02
+Quinndary Weatherspoon,Signed two-way contract,weathqu01
+Lindell Wigginton,Signed Exhibit 10 contract,wiggili01
+Ryan Arcidiacono,Signed exhibit 10 contract,arcidry01
+Kent Bazemore,Signed non-guaranteed contract,bazemke01
+Bol Bol,Signed 2-yr/$4.4M contract,bolbo01
+Isaac Bonga,,bongais01
+Jarrett Culver,Signed two-way contract,culveja01
+Sekou Doumbouya,Signed exhibit 10 contract,doumbse01
+Kyle Guy,,guyky01
+Udonis Haslem,Signed 1-yr minimum contract,hasleud01
+Jake Layman,Signed exhibit 10 contract,laymaja01
+Juwan Morgan,Boston exercised team option,morgaju01
+Jamorko Pickett,Signed non-guaranteed contract,pickeja01
+Trevelin Queen,Signed 2-yr minimum contract,queentr01
+Neemias Queta,Signed two-way contract,quetane01
+Brodric Thomas,Signed exhibit 10 contract,thomabr01
+Joe Wieskamp,,wieskjo01
+Moses Wright,,wrighmo01
+Joel Ayayi,Signed exhibit 10 contract,ayayijo01
+Trey Burke,,burketr01
+Chris Chiozza,Signed exhibit 10 contract,chiozch01
+Josh Jackson,Signed exhibit 10 contract,jacksjo02
+David Johnson,Signed Exhibit 10 contract,johnsda08
+Louis King,,kinglo02
+Arnoldas Kulboka,,kulboar01
+Anthony Lamb,Signed exhibit 10 contract,lamban01
+Scottie Lewis,,lewissc01
+Mac McClung,Signed 1-yr minimum non-guaranteed contract,mccluma01
+Abdel Nader,,naderab01
+RJ Nembhard Jr.,Signed two-way contract,nembhrj01
+Yves Pons,,ponsyv01
+Matt Ryan,Signed non-guaranteed contract,ryanma01
+Jay Scrubb,Signed Exhibit 10 contract,scrubja01
+Tyrell Terry,,terryty01
+Paul Watson,,watsopa01
+Cassius Winston,,winstca01
+McKinley Wright IV,Signed exhibit 10 contract,wrighmc01
+Gabe York,Signed exhibit 10 contract,yorkga01
+Nate Hinton,Signed exhibit 10 contract,hintona01
+Myles Powell,,powelmy01
+Collin Sexton,Signed 4-yr/$72M contract as part of sign and trade deal,sextoco01
+Robert Woodard II,Signed exhibit 10 contract,woodaro01
+Sharife Cooper,Signed two-way contract,coopesh01
+Elfrid Payton,,paytoel01
+Melvin Frazier,,frazime01
+Elijah Hughes,,hugheel01
+Keljin Blevins,,blevike01
+Keifer Sykes,Signed exhibit 10 contract,sykeske01
+Michael Carter-Williams,,cartemi01
+E'Twaun Moore,,mooreet01
+Kendrick Nunn,,nunnke01
+D.J. Stewart Jr.,Signed exhibit 10 contract,stewadj02
+John Wall,Signed 2-yr/$13M contract,walljo01
+T.J. Warren,Signed 1-yr minimum contract,warretj01
