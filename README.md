@@ -1,4 +1,4 @@
-# NBA-Contract-Prediction
+# Predicting Fair Valuation of NBA Contracts
 ## Data source
 ### 2016-2021 
 - Stats & salary: [u/cilantro_samosa](https://github.com/sumitrodatta/contract-prediction-2022)
